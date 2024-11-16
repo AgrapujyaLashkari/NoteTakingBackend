@@ -61,6 +61,8 @@ app.use(
     origin: [
       "http://localhost:5173",
       "https://notetakingbackend-ss9p.onrender.com",
+      "https://capstone-frontend-blue.vercel.app"
+
     ],
     methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
     credentials: true,

@@ -60,7 +60,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://capstonefrontend-h1j6.onrender.com",
+      "https://notetakingbackend-ss9p.onrender.com",
     ],
     methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
     credentials: true,
